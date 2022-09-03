@@ -12,7 +12,6 @@ const images = [
     alt: 'Group of Horses Running',
   },
 ];
-const catImage = document.createElement('li');
 const catImage = document.createElement('img');
 catImage.src =
   'https://images.pexels.com/photos/140134/pexels-photo-140134.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260';
